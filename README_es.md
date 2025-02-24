@@ -36,7 +36,7 @@ A stupidly simple todo list application that just works. No complex database, no
 
 ## Capturas
 
-![Captura de DumbDo](./doc/screenshots/screeshot.png)
+![Captura de DumbDo](./doc/screenshots/screenshot.png)
 
 ## Documentaciones y recursos
 

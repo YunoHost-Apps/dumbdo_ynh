@@ -34,7 +34,7 @@ Une application de liste de tâches stupidement simple qui fonctionne tout simpl
 
 ## Captures d’écran
 
-![Capture d’écran de DumbDo](./doc/screenshots/screeshot.png)
+![Capture d’écran de DumbDo](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 

@@ -36,7 +36,7 @@ A stupidly simple todo list application that just works. No complex database, no
 
 ## 截图
 
-![DumbDo 的截图](./doc/screenshots/screeshot.png)
+![DumbDo 的截图](./doc/screenshots/screenshot.png)
 
 ## 文档与资源
 
