@@ -1,0 +1,60 @@
+#:schema https://raw.githubusercontent.com/YunoHost/apps/master/schemas/manifest.v2.schema.json
+
+packaging_format = 2
+
+id = "dumbdo"
+name = "DumbDo"
+description.en = "Dumb ToDo List"
+description.fr = "ToDo simple"
+
+version = "1.0.0~ynh1"
+
+maintainers = ["eric_G"]
+
+[upstream]
+license = "GPL-3.0"
+code = "https://github.com/DumbWareio/DumbDo"
+
+[integration]
+yunohost = ">= 12.0.9"
+helpers_version = "2.1"
+architectures = "all"
+multi_instance = true
+
+ldap = false
+sso = false
+
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    #[install.path]
+    #type = "path"
+    #default = "/example"
+
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
+[resources]
+
+    [resources.sources]
+
+    [resources.sources.main]
+    url = "https://github.com/DumbWareio/DumbDo/archive/8650b1eaaa01c713a5b6d49e582c90a76a175346.tar.gz"
+    sha256 = "511d84bd82f9fe0e17431630bd4d6cae68bd688132085219ad875739a7bd0fa8"
+
+    # autoupdate.strategy = "latest_github_tag"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.ports]
