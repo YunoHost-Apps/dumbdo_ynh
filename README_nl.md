@@ -36,7 +36,7 @@ A stupidly simple todo list application that just works. No complex database, no
 
 ## Schermafdrukken
 
-![Schermafdrukken van DumbDo](./doc/screenshots/screeshot.png)
+![Schermafdrukken van DumbDo](./doc/screenshots/screenshot.png)
 
 ## Documentatie en bronnen
 

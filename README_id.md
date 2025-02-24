@@ -36,7 +36,7 @@ A stupidly simple todo list application that just works. No complex database, no
 
 ## Tangkapan Layar
 
-![Tangkapan Layar pada DumbDo](./doc/screenshots/screeshot.png)
+![Tangkapan Layar pada DumbDo](./doc/screenshots/screenshot.png)
 
 ## Dokumentasi dan sumber daya
 
