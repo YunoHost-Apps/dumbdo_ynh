@@ -36,7 +36,7 @@ A stupidly simple todo list application that just works. No complex database, no
 
 ## Screenshots
 
-![Screenshot of DumbDo](./doc/screenshots/screeshot.png)
+![Screenshot of DumbDo](./doc/screenshots/screenshot.png)
 
 ## Documentation and resources
 

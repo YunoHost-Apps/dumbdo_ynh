@@ -36,7 +36,7 @@ A stupidly simple todo list application that just works. No complex database, no
 
 ## Pantaila-argazkiak
 
-![DumbDo(r)en pantaila-argazkia](./doc/screenshots/screeshot.png)
+![DumbDo(r)en pantaila-argazkia](./doc/screenshots/screenshot.png)
 
 ## Dokumentazioa eta baliabideak
 
