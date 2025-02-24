@@ -40,6 +40,7 @@ A stupidly simple todo list application that just works. No complex database, no
 
 ## Documentation and resources
 
+- Official app website: <https://www.dumbware.io/>
 - Upstream app code repository: <https://github.com/DumbWareio/DumbDo>
 - YunoHost Store: <https://apps.yunohost.org/app/dumbdo>
 - Report a bug: <https://github.com/YunoHost-Apps/dumbdo_ynh/issues>

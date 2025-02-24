@@ -40,6 +40,7 @@ A stupidly simple todo list application that just works. No complex database, no
 
 ## 文档与资源
 
+- 官方应用网站： <https://www.dumbware.io/>
 - 上游应用代码库： <https://github.com/DumbWareio/DumbDo>
 - YunoHost 商店： <https://apps.yunohost.org/app/dumbdo>
 - 报告 bug： <https://github.com/YunoHost-Apps/dumbdo_ynh/issues>
