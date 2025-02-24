@@ -40,6 +40,7 @@ A stupidly simple todo list application that just works. No complex database, no
 
 ## Documentaciones y recursos
 
+- Sitio web oficial: <https://www.dumbware.io/>
 - Repositorio del código fuente oficial de la aplicación : <https://github.com/DumbWareio/DumbDo>
 - Catálogo YunoHost: <https://apps.yunohost.org/app/dumbdo>
 - Reportar un error: <https://github.com/YunoHost-Apps/dumbdo_ynh/issues>

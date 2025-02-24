@@ -38,6 +38,7 @@ Une application de liste de tâches stupidement simple qui fonctionne tout simpl
 
 ## Documentations et ressources
 
+- Site officiel de l’app : <https://www.dumbware.io/>
 - Dépôt de code officiel de l’app : <https://github.com/DumbWareio/DumbDo>
 - YunoHost Store : <https://apps.yunohost.org/app/dumbdo>
 - Signaler un bug : <https://github.com/YunoHost-Apps/dumbdo_ynh/issues>
