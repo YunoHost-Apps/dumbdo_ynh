@@ -13,6 +13,7 @@ maintainers = ["eric_G"]
 
 [upstream]
 license = "GPL-3.0"
+website = "https://www.dumbware.io/"
 code = "https://github.com/DumbWareio/DumbDo"
 
 [integration]
