@@ -40,6 +40,7 @@ A stupidly simple todo list application that just works. No complex database, no
 
 ## Dokumentasi dan sumber daya
 
+- Website aplikasi resmi: <https://www.dumbware.io/>
 - Depot kode aplikasi hulu: <https://github.com/DumbWareio/DumbDo>
 - Gudang YunoHost: <https://apps.yunohost.org/app/dumbdo>
 - Laporkan bug: <https://github.com/YunoHost-Apps/dumbdo_ynh/issues>
