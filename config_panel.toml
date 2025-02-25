@@ -15,4 +15,4 @@ services = ["__APP__"]
         type = "number"
         help.en = "Choose an optional PIN protection (4-10 digits)"
         help.fr = "Choisissez la protection par code PIN en option (4 à 10 chiffres)"
-        bind = "DUMBBUDGET_PIN:__INSTALL_DIR__/.env"
+        bind = "DUMBDO_PIN:__INSTALL_DIR__/.env"
