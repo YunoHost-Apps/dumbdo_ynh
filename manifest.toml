@@ -15,6 +15,7 @@ maintainers = ["eric_G"]
 license = "GPL-3.0"
 website = "https://www.dumbware.io/"
 code = "https://github.com/DumbWareio/DumbDo"
+fund = "https://buymeacoffee.com/dumbware"
 
 [integration]
 yunohost = ">= 12.0.9"
@@ -33,9 +34,9 @@ ram.runtime = "50M"
     [install.domain]
     type = "domain"
 
-    #[install.path]
-    #type = "path"
-    #default = "/example"
+    [install.path]
+    type = "path"
+    default = "/dumbdo"
 
     [install.init_main_permission]
     type = "group"
