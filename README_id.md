@@ -30,7 +30,7 @@ A stupidly simple todo list application that just works. No complex database, no
 - PIN protection (4-10 digits if enabled)
 
 
-**Versi terkirim:** 1.0.0~ynh1
+**Versi terkirim:** 1.0.0~ynh2
 
 ## Tangkapan Layar
 
