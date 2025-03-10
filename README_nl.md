@@ -30,7 +30,7 @@ A stupidly simple todo list application that just works. No complex database, no
 - PIN protection (4-10 digits if enabled)
 
 
-**Geleverde versie:** 1.0.0~ynh2
+**Geleverde versie:** 2025.03.08~ynh1
 
 ## Schermafdrukken
 
