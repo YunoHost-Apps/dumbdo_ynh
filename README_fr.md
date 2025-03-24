@@ -30,7 +30,7 @@ Une application de liste de tâches stupidement simple qui fonctionne tout simpl
 - Protection par code PIN (4-10 chiffres si activé)
 
 
-**Version incluse :** 2025.03.08~ynh1
+**Version incluse :** 2025.03.18~ynh1
 
 ## Captures d’écran
 
