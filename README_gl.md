@@ -30,7 +30,7 @@ A stupidly simple todo list application that just works. No complex database, no
 - PIN protection (4-10 digits if enabled)
 
 
-**Versión proporcionada:** 2025.03.08~ynh1
+**Versión proporcionada:** 2025.03.18~ynh1
 
 ## Capturas de pantalla
 
