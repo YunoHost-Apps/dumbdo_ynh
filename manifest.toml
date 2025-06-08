@@ -7,7 +7,7 @@ name = "DumbDo"
 description.en = "Dumb ToDo List"
 description.fr = "ToDo simple"
 
-version = "2025.04.01~ynh1"
+version = "2025.06.04~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -48,8 +48,8 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://github.com/DumbWareio/DumbDo/archive/e8fc8e9e1a53838e7c2de22d863384a2cddb8800.tar.gz"
-    sha256 = "1c27882ce0bef5d4cd227975879224d65318c01af8cf700f4feb4c10755ac297"
+    url = "https://github.com/DumbWareio/DumbDo/archive/1eb8fd953b7ee4020d7b2ecca2edd3ac498e04ec.tar.gz"
+    sha256 = "ac36bfcf14d2353aa0524435e74c75e9646d8c5a6b8743a9fd20ecf6af47bfac"
     autoupdate.upstream = "https://github.com/DumbWareio/DumbDo"
     autoupdate.strategy = "latest_github_commit"
 
