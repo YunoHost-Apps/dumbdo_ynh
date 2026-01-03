@@ -7,7 +7,7 @@ name = "DumbDo"
 description.en = "Dumb ToDo List"
 description.fr = "ToDo simple"
 
-version = "1.0.0~ynh1"
+version = "2025.08.27~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -19,7 +19,7 @@ code = "https://github.com/DumbWareio/DumbDo"
 fund = "https://buymeacoffee.com/dumbware"
 
 [integration]
-yunohost = ">= 12.0.9"
+yunohost = ">= 12.1.38"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
@@ -54,9 +54,9 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://github.com/DumbWareio/DumbDo/archive/8650b1eaaa01c713a5b6d49e582c90a76a175346.tar.gz"
-    sha256 = "511d84bd82f9fe0e17431630bd4d6cae68bd688132085219ad875739a7bd0fa8"
-
+    url = "https://github.com/DumbWareio/DumbDo/archive/af4532890ed0613d4cb4a35931d436cea63180ff.tar.gz"
+    sha256 = "c897b35b8cd0a01dafd6c85d591a8c790f4cc3a3f5bcd624b073d1a81e76ebb9"
+    autoupdate.upstream = "https://github.com/DumbWareio/DumbDo"
     autoupdate.strategy = "latest_github_commit"
 
     [resources.system_user]
@@ -67,3 +67,6 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.ports]
+
+    [resources.nodejs]
+    version = "22"
