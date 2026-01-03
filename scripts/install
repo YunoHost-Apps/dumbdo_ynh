@@ -7,6 +7,15 @@
 source /usr/share/yunohost/helpers
 
 #=================================================
+# CHECK IF THE APP CAN BE INSTALLED WITH THESE ARGS
+#=================================================
+ynh_script_progression "Validating installation parameters..."
+
+if [[ ${#pin} -lt 4 ]] || [[ ${#pin} -gt 10 ]]; then
+    ynh_die "PIN length should be between 4 and 10 digits"
+fi
+
+#=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE
 #=================================================
 ynh_script_progression "Setting up source files..."
